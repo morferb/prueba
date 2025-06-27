@@ -1,17 +1,17 @@
-🧠 ¿Qué significa "scrapear"?
+# 🧠 ¿Qué significa "scrapear"?
 Scrapear una página web es leer su código HTML, extraer el contenido que te interesa (por ejemplo, títulos, texto, enlaces, etc.), y usarlo o guardarlo.
 
-🧰 Herramientas que vas a usar
+# 🧰 Herramientas que vas a usar
 requests – para descargar el HTML.
 
 BeautifulSoup (bs4) – para parsear el HTML y extraer datos.
 
-🐍 Paso 1: Instalá las librerías (si no las tenés)
+# 🐍 Paso 1: Instalá las librerías (si no las tenés)
 bash
 Copiar
 Editar
 pip install requests beautifulsoup4
-🧪 Paso 2: Código base para scrapear
+# 🧪 Paso 2: Código base para scrapear
 python
 Copiar
 Editar
